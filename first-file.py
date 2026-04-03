@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-print("hello world v3")
- 
-=======
 
-print("hello world v5")
->>>>>>> dev
+
+print("hello world v2")
+x=5
